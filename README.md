@@ -1,16 +1,31 @@
-# game_gate
+🎮 GameGate
+GameGate is a comprehensive mobile platform designed for gamers to compare game prices, follow the latest gaming news, and stay updated on new releases.
 
-A new Flutter project.
+✨ Features
+Price Comparison: View and compare game prices across different platforms instantly.
 
-## Getting Started
+Latest News: Stay up-to-date with the fastest news from the gaming world.
 
-This project is a starting point for a Flutter application.
+New Releases: List and track the latest titles hitting the market.
 
-A few resources to get you started if this is your first Flutter project:
+Modern UI: A sleek, user-friendly mobile experience built with Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Tech Stack
+Framework: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Language: 
+
+Backend:  (Authentication & Firestore)
+
+State Management: Provider
+
+🚀 Getting Started
+To run this project locally:
+
+Clone the repository:
+
+Navigate to the project folder:
+
+Install dependencies:
+
+Run the application:
