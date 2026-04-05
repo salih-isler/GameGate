@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198847538378",
+    "project_id": "gamegate-d32b6",
+    "storage_bucket": "gamegate-d32b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198847538378:android:112782d6f7ffe2db208033",
+        "android_client_info": {
+          "package_name": "com.example.game_gate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNU-C-TjyKb3JF_Hqyac7RWU3-5nHlPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

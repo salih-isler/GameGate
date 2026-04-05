@@ -1,0 +1,51 @@
+name: gamegate_app
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- DÜZELTME: Paketler 'flutter:' ile AYNI HİZADA olmalı (2 boşluk içeride) ---
+  image_picker: ^1.0.4
+  url_launcher: ^6.2.4
+  cupertino_icons: ^1.0.2
+
+  # Firebase
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+
+  # State Management
+  provider: ^6.1.1
+
+  # Http Requests
+  http: ^1.2.0
+
+  # Yardımcı Paketler
+  fluttertoast: ^8.2.4
+  form_field_validator: ^1.1.0
+  cached_network_image: ^3.3.1
+  google_fonts: ^6.1.0
+  webview_flutter: ^4.7.0
+  easy_localization: ^3.0.7
+  shared_preferences: ^2.5.4
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Resim ve Çeviri Dosyaları
+  assets:
+    - assets/logo.jpg
+    - assets/translations/

@@ -1,0 +1,73 @@
+{
+  "titles": {
+    "app_name": "GameGate",
+    "home": "Home",
+    "new_releases": "New Releases",
+    "search": "Search Games",
+    "news": "News",
+    "settings": "Settings",
+    "store": "All Stores",
+    "login": "Login",
+    "register": "Register"
+  },
+
+  "auth": {
+    "email_hint": "Email",
+    "password_hint": "Password",
+    "login_btn": "Login",
+    "register_btn": "Register",
+    "no_account": "Don't have an account? Register",
+    "have_account": "Already have an account? Login",
+    "logout": "Logout",
+    "welcome_user": "GameGate Member"
+  },
+
+  "home": {
+    "featured_badge": "FEATURED",
+    "trending_title": "Trending Now",
+    "see_all": "See All",
+    "banner_title": "New Releases 🔥",
+    "banner_sub": "Discover the best of the last 6 months"
+  },
+
+  "details": {
+    "metascore": "Metascore",
+    "description_empty": "No description available.",
+    "user_reviews_title": "User Reviews",
+    "add_review_btn": "Add Review",
+    "no_reviews_yet": "No reviews yet. Be the first!",
+    "reddit_title": "Reddit Community",
+    "reddit_empty": "No Reddit threads found.",
+    "posted_by": "posted by",
+    "success_review": "Review added successfully!",
+    "where_to_buy": "Where to Buy"
+  },
+
+  "review_dialog": {
+    "title": "Rate & Review",
+    "tap_rate": "Tap to rate:",
+    "hint_text": "Write your opinion...",
+    "cancel": "Cancel",
+    "post": "Post"
+  },
+
+  "price_screen": {
+    "search_hint": "Search game... (e.g. GTA V)",
+    "steam_label": "Steam:",
+    "free": "Free",
+    "unknown": "Unknown",
+    "not_found": "Not found on Steam:",
+    "check_others": "Check other stores:"
+  },
+
+  "settings": {
+    "language": "Language",
+    "notifications": "Notifications",
+    "dark_mode": "Dark Mode"
+  },
+
+  "errors": {
+    "general": "Something went wrong",
+    "loading": "Loading..."
+  }
+}

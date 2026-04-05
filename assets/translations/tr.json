@@ -1,0 +1,66 @@
+{
+  "titles": {
+    "app_name": "GameGate",
+    "home": "Ana Sayfa",
+    "new_releases": "Yeni Çıkanlar",
+    "search": "Oyun Ara",
+    "news": "Haberler",
+    "settings": "Ayarlar",
+    "store": "Tüm Mağazalar",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol"
+  },
+  "auth": {
+    "email_hint": "E-posta",
+    "password_hint": "Şifre",
+    "login_btn": "Giriş Yap",
+    "register_btn": "Kayıt Ol",
+    "no_account": "Hesabın yok mu? Kayıt Ol",
+    "have_account": "Zaten hesabın var mı? Giriş Yap",
+    "logout": "Çıkış Yap",
+    "welcome_user": "GameGate Üyesi"
+  },
+  "home": {
+    "featured_badge": "ÖNE ÇIKAN",
+    "trending_title": "Trend Olanlar",
+    "see_all": "Hepsini Gör",
+    "banner_title": "Yeni Çıkanlar 🔥",
+    "banner_sub": "Son 6 ayın en iyilerini keşfet"
+  },
+  "details": {
+    "metascore": "Metascore",
+    "description_empty": "Açıklama bulunamadı.",
+    "user_reviews_title": "Kullanıcı Yorumları",
+    "add_review_btn": "Yorum Ekle",
+    "no_reviews_yet": "Henüz yorum yok. İlk sen yaz!",
+    "reddit_title": "Reddit Topluluğu",
+    "reddit_empty": "Reddit başlığı bulunamadı.",
+    "posted_by": "gönderen",
+    "success_review": "Yorum başarıyla eklendi!",
+    "where_to_buy": "Satın Alınabilecek Yerler"
+  },
+  "review_dialog": {
+    "title": "Puanla & Yorumla",
+    "tap_rate": "Puan ver:",
+    "hint_text": "Düşüncelerini yaz...",
+    "cancel": "İptal",
+    "post": "Gönder"
+  },
+  "price_screen": {
+    "search_hint": "Oyun ara... (örn. GTA V)",
+    "steam_label": "Steam Fiyatı:",
+    "free": "Ücretsiz",
+    "unknown": "Bilinmiyor",
+    "not_found": "Steam'de bulunamadı:",
+    "check_others": "Diğer mağazalara bak:"
+  },
+  "settings": {
+    "language": "Dil",
+    "notifications": "Bildirimler",
+    "dark_mode": "Karanlık Mod"
+  },
+  "errors": {
+    "general": "Bir şeyler ters gitti",
+    "loading": "Yükleniyor..."
+  }
+}
