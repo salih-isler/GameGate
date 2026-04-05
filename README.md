@@ -44,5 +44,5 @@ Run the application:
 Bash
 flutter run
 <p align="center">
-Developed with by <strong><a href="https://github.com/salih-isler">Salih İşler</a></strong>
+Developed by <strong><a href="https://github.com/salih-isler">Salih İşler</a></strong>
 </p>
